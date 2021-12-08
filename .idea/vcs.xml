@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CameraTraps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ai4eutils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c:git/ai4eutils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c:git/cameratraps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git/ai4eutils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git/cameratraps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rep/ai4eutils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rep/cameratraps" vcs="Git" />
+  </component>
+</project>

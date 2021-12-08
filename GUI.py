@@ -1,6 +1,7 @@
 # img_viewer.py
 
 import PySimpleGUI as sg
+
 import os.path
 
 # First the window layout in 2 columns
@@ -69,7 +70,3 @@ while True:
             pass
 
 window.close()
-
-
-
-##########
