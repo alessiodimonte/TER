@@ -1,0 +1,45 @@
+################################################# What I did before run job2
+cd /workspace/fsimoes/detection/megadetector/
+
+git clone https://github.com/microsoft/CameraTraps/
+git clone https://github.com/microsoft/ai4eutils/
+
+wget -O /workspace/fsimoes/detection/megadetector/md_v4.1.0.pb https://lilablobssc.blob.core.windows.net/models/camera_traps/megadetector/md_v4.1.0/md_v4.1.0.pb
+
+conda create --name pyt368 tensorflow==1.13.1 python==3.6.8
+conda create --name pyt368gpu tensorflow-gpu==1.13.1 python==3.6.8
+
+conda activate pyt368 (or pyt368gpu)
+
+pip install pandas tqdm pillow humanfriendly matplotlib tqdm jsonpickle statistics requests
+
+################################################# job2
+
+#!/bin/sh
+#SBATCH --job-name=job2_megaBBtfcpu
+#SBATCH --time=2-03:00:00
+#SBATCH --account=testmsi
+#SBATCH --partition=cpucourt
+#SBATCH --mail-user=fanny.simoes@univ-cotedazur.fr
+#SBATCH --mail-type=ALL
+#SBATCH --output=output_job2tfcpu.txt
+#SBATCH --ntasks-per-node=40
+
+module purge
+module load miniconda
+
+conda activate /home/fsimoes/.conda/envs/pyt368
+cd /workspace/fsimoes/detection/megadetector/
+export PYTHONPATH="$PYTHONPATH:$PWD/ai4eutils:$PWD/CameraTraps"
+python /workspace/fsimoes/detection/megadetector/CameraTraps/detection/run_tf_detector_batch.py /workspace/fsimoes/detection/megadetector/md_v4.1.0.pb /workspace/fsimoes/images/ /workspace/fsimoes/detection/megadetector/results_megaBB/megaBB.json
+conda deactivate
+
+
+
+
+
+
+
+
+
+

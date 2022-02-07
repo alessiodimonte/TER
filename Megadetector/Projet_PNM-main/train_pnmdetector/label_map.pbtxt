@@ -1,0 +1,67 @@
+item {
+    id: 1
+    name: 'humain'
+}
+
+item {
+    id: 2
+    name: 'chamois'
+}
+
+item {
+    id: 3
+    name: 'chevreuil'
+}
+
+item {
+    id: 4
+    name: 'biche'
+}
+
+item {
+    id: 5
+    name: 'cerf'
+}
+
+item {
+    id: 6
+    name: 'renard'
+}
+
+item {
+    id: 7
+    name: 'blaireau'
+}
+
+item {
+    id: 8
+    name: 'loup'
+}
+
+item {
+    id: 9
+    name: 'lievre'
+}
+
+item {
+    id: 10
+    name: 'chien'
+}
+
+item {
+    id: 11
+    name: 'sanglier'
+}
+
+item {
+    id: 12
+    name: 'velo'
+}
+
+item {
+    id: 13
+    name: 'bouquetin'
+}
+
+
+
