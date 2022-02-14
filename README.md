@@ -199,4 +199,4 @@ In the **archive** branch it is stored the code for all the different parts stud
 
 
 # More Information
-For more information, please refer the Technical Report under the folder Technical Report in the master branch. (add link)
+For more information, please refer the Technical Report under the folder Technical Report in the master branch. https://github.com/alessiodimonte/TER/tree/master/Technical%20Report
