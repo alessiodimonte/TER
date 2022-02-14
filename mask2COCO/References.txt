@@ -1,2 +1,0 @@
-This code, created by Arturo Pinar, Giuseppe Alessio Dimonte and Yuehiao Huang, is an adapted version of the code found in the repo 
-https://github.com/chrise96/image-to-coco-json-converter
