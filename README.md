@@ -188,7 +188,7 @@ In the **archive** branch it is stored the code for all the different parts stud
 
 5.6. Click on "Runtime" &arr "Change runtime type" &arr "Hardware accelerator" &arr "GPU" &arr "Save" to enable the GPU acceleration
 
-5.7. Click on "Runtime" &arr "Run all" to run the whole notebook
+5.7. Click on "Runtime" &arr; "Run all" to run the whole notebook
 
 5.8. Google Colab will ask you to mount your files (it is a mandatory step to perform)
   - Click on "Connect to Google Drive"
