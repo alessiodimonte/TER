@@ -30,17 +30,12 @@ For the technological aspect, the software created can identify, locate, and cre
 
 
 # Structure of the Github Repository
-In the "master" branch it is stored the code for the working User Interface, comprehending all the parts for running the "Mask R-CNN" training and test phase and the "Flask" code for the clickable button.
+In the **master** branch it is stored the code for the working User Interface, comprehending all the parts for running the "Mask R-CNN" training and test phase and the "Flask" code for the clickable button.
 
-In the "google-colab" branch it is stored the code for the code adapted to work on Google Colab in case the local machine gives problems
+In the **google-colab** branch it is stored the code adapted to work on Google Colab in case the local machine gives problems.
 
-In the "archive" branch it is stored the code for all the different parts studied throughout the development of the project, organized in single folders divided by topic.
+In the **archive** branch it is stored the code for all the different parts studied throughout the development of the project, organized in single folders divided by topic.
 
-In the "master" branch it is stored the code for the working User Interface, comprehending all the parts for running the "Mask R-CNN" training and test phase and the "Flask" code for the clickable button.
-
-In the "google-colab" branch it is stored the code for the code adapted to work on Google Colab in case the local machine gives problems
-
-In the "archive" branch it is stored the code for all the different parts studied throughout the development of the project, organized in single folders divided by topic.
 
 # User Manual 
 ## Local Machine 
