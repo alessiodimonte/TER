@@ -76,14 +76,14 @@ In the **archive** branch it is stored the code for all the different parts stud
 
 2.4. Click "Start project" button
 
-2.5. Load the annotations with the buttons "Actions" &rarr; "Import Annotations" and select the annotation file corresponding to the images uploaded in step 2.1 (or make annotations by yourself)
+2.5. Load the annotations with the buttons "Actions" &#8594; "Import Annotations" and select the annotation file corresponding to the images uploaded in step 2.1 (or make annotations by yourself)
   - The images with the tick icon means that are annotated, the ones with the forbid icon are not
 
 ![image](https://user-images.githubusercontent.com/23140351/153866317-398be19f-41ce-488e-8bc3-85849f192587.png)
 
 2.6. From the UI it is possible to create new annotations and change the imported annotations masks
 
-2.7. It is posible to export the annotation by clicking "Actions" &arr "Export Annotations" &arr "COCO JSON"
+2.7. It is posible to export the annotation by clicking "Actions" &#8594; "Export Annotations" &#8594; "COCO JSON"
 
 ![image](https://user-images.githubusercontent.com/23140351/153866535-1cc2f91d-c416-4b3d-a481-478ff5f5a077.png)
 
