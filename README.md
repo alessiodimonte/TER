@@ -132,17 +132,17 @@ In the **archive** branch it is stored the code for all the different parts stud
   - You can use the annotation file generated from manually annotated images
   - You can use the annotation file generated from external sources
   
- 4.7. Right click with the mouse on the file "finalNotebook_trainAndTest_COLAB.ipynb &arr open with &arr Google Colaboratory
+ 4.7. Right click with the mouse on the file "finalNotebook_trainAndTest_COLAB.ipynb &#8594; open with &#8594; Google Colaboratory
  
  
 ![image](https://user-images.githubusercontent.com/23140351/153868066-3f8c52da-8223-4609-ae07-6e8659bb1666.png)
 
-4.8. Click on Runtime &arr Change runtime type &arr Hardware accelerator &arr GPU &arr Save to enable the GPU acceleration
+4.8. Click on Runtime &#8594; Change runtime type &#8594; Hardware accelerator &#8594; GPU &#8594; Save to enable the GPU acceleration
 
 ![image](https://user-images.githubusercontent.com/23140351/153868242-4e24aae2-4d13-430c-9108-1dc7b21e9aff.png)
 ![image](https://user-images.githubusercontent.com/23140351/153868259-cc6e73e9-9082-45a6-ac17-10950b0fd21d.png)
 
-4.9. Click on "Runtime" &arr "Run all" to run the whole notebook
+4.9. Click on "Runtime" &#8594; "Run all" to run the whole notebook
 
 ![image](https://user-images.githubusercontent.com/23140351/153868329-9c2b9d15-17c2-4b2b-83b0-5d5af59e4c4f.png)
 
@@ -164,7 +164,7 @@ In the **archive** branch it is stored the code for all the different parts stud
 
 ![image](https://user-images.githubusercontent.com/23140351/153868613-5f47b7dd-7309-4234-8f3c-a2907c5d8c66.png)
 
-4.12. Open the UI installed locally and follow the instructions of steps 1 and 2 (import images and annotations &arr see the result)
+4.12. Open the UI installed locally and follow the instructions of steps 1 and 2 (import images and annotations &#8594; see the result)
 
 
 ![image](https://user-images.githubusercontent.com/23140351/153868709-649a72ea-fee6-4a04-b955-7914975adde0.png)
@@ -184,9 +184,9 @@ In the **archive** branch it is stored the code for all the different parts stud
 
 5.4	Put in the “testImages” folder the images on which you want to automatically create your annotations
 
-5.5. Right click on the file "finalNotebook_test_COLAB.ipynb" &arr "Open with" &arr "Google Colaboratory"
+5.5. Right click on the file "finalNotebook_test_COLAB.ipynb" &#8594; "Open with" &#8594; "Google Colaboratory"
 
-5.6. Click on "Runtime" &arr "Change runtime type" &arr "Hardware accelerator" &arr "GPU" &arr "Save" to enable the GPU acceleration
+5.6. Click on "Runtime" &#8594; "Change runtime type" &#8594; "Hardware accelerator" &#8594; "GPU" &#8594; "Save" to enable the GPU acceleration
 
 5.7. Click on "Runtime" &#8594; "Run all" to run the whole notebook
 
